@@ -1,0 +1,39 @@
+body{
+    font-family: 'Lobster', cursive;
+}
+.heading{
+    font-size: 30px;
+    color: rgb(255, 251, 0);
+    margin: 0;
+    box-shadow: 15px 15px 15px rgb(0, 255, 255);
+    background-color: rgb(255, 0, 51);
+}
+.heading_div2{
+    color: rgb(4, 0, 255);
+    background-color: rgb(255, 255, 255);
+}
+.heading_div{
+    float: none;
+}
+.result{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 17, 255);
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(251, 255, 0);
+    color: rgb(255, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(255, 145, 0);
+    text-align: center;
+}
+canvas{
+    border-radius: 20px;
+    margin-top: 125px;
+    border: 5px solid rgb(153, 255, 0);
+    box-shadow: 5px 5px 5px rgb(0, 162, 255);
+}
